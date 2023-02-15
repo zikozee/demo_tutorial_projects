@@ -1,0 +1,10 @@
+server:
+  port: 60000
+
+demo:
+  name: JACKSON EARNEST
+  company:
+    name: INTERSWITCH
+    awesome: true
+    url: 'https://www.interswitchgroup.com'
+

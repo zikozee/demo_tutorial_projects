@@ -1,0 +1,9 @@
+server:
+  port: ${SERVER_PORT}
+
+demo:
+  name: ${DEMO_NAME}
+  company:
+    name: ${COMPANY_NAME}
+    awesome: ${COMPANY_AWESOME}
+    url: ${COMPANY_URL}
